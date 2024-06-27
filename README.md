@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Goutam2606
-- 👀 I’m interested in Watching Sci-fi Movies...
-- 🌱 I’m currently learning Angular, NodeJs & Mongo
-- 💞️ In Free Time i Love to read Self-Help Books like(The Power of your subconscious mind by Joseph Murphy, Atomic Habits By James Clear, etc...)
+- 👋 Hi, I’m Goutam 
+- 👀 I’m interested in Reading Psychological Book...
+- 🌱 I’m currently learning Node.js
 - 📫 Reach me - goutam9301@gmail.com
 - 😄 Pronouns: Goutam
 - ⚡ Fun fact: I am in Final Year 🤭😁
+- 🚀 Website - https://bento.me/goutam-yadav
 
 <!---
 Goutam2606/Goutam2606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
