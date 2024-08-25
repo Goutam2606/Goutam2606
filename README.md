@@ -1,4 +1,4 @@
-# Hi there, I'm Goutam Y 👋
+# Hi there, I'm Goutam Yadav 👋
 
 ## About Me 👨‍💻
 I’m a passionate MERN & MEAN stack developer with hands-on experience in building dynamic and responsive web applications. I specialize in creating full-stack solutions using MongoDB, Express.js, React.js, Angular and Node.js. My journey as a developer has equipped me with the skills to handle both frontend and backend development, enabling me to create cohesive and functional applications.
