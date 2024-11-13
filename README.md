@@ -1,4 +1,4 @@
-<h1 align="center">hey, What's up? Goutam Yadav</h1>
+<h1 align="center">hey 👋, What's up? Goutam Yadav</h1>
 <h3 align="center">I'm a Full Stack Developer at Singaji Software Solution pvt. ltd. from Madhya Pradesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutam2606&label=Profile%20views&color=0e75b6&style=flat" alt="goutam2606" /> </p>
