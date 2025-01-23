@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Singaji Software Solution, and various client projects.<br>👯 I’m looking to collaborate on Web Development, and ai integrations.<br>🌱 I’m currently learning Open CV, Deep Learning, Docker, Kubernetes, Python, SpringBoot, Microservice and AI-driven solutions.<br>💬 Ask me about web development, and ai integration.<br>⚡ Fun fact: I’m exploring Ai Integration projects and AI for good initiatives.
+🔭 I’m currently working on Singaji Software Solution, and various client projects.<br>👯 I’m looking to collaborate on Web Development, and ai integrations.<br>🌱 I’m currently learning Python, SpringBoot, Docker, Kubernetes, Microservice, Kafka and AI-driven solutions.<br>💬 Ask me about web development, and ai integration.<br>⚡ Fun fact: I’m exploring Ai Integration projects and AI for good initiatives.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/officialgoutamyadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goutam2606)
@@ -19,10 +19,6 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-
 ### Databases/State Management
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
@@ -36,10 +32,6 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-### CI/CD
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins)
-
 ### Package Managers
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 
@@ -47,18 +39,8 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Goutam2606&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Goutam2606&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goutam2606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Goutam2606&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Suhaib3100&icon=0&color=1)](https://visitcount.itsvg.in)
-  
+---  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
